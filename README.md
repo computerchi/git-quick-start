@@ -59,10 +59,10 @@ To add new features to a stable app it is better to fork off a new branch. This 
 Now make your changes then type
 
 ```
-> git add .
-> git commit -m "describe changes"
-> git push
-> git merge <master-branch>
+>git add .
+>git commit -m "describe changes"
+>git push
+>git merge <master-branch>
 ```
 
 Alternatively, you can create a _pull request_ and do the merging on the _github.com_ site. You still need to `add`, `commit`, and `push` first.
