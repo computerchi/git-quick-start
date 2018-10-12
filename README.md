@@ -49,7 +49,7 @@ After you've made changes, additions and deletions you are ready to add them to 
 
 ## Adding new feature to your app
 
-To add new features to a stable app it is better to fork off a new branch. This cane be done from the _github.com_ site. After creating the branch change to the new branch on the local PC, type
+To add new features to a stable app it is better to fork off a new branch. This can be done from the _github.com_ site. After creating the branch change to the new branch on the local PC, type
 
 ```
 >git checkout <new-branch>
